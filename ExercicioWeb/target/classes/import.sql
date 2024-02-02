@@ -1,0 +1,2 @@
+INSERT INTO usuario(nome, username, senha) VALUES ('Admin', 'admin','$2a$10$.PVIfB07x.SfMYTcToxL0.yxcLWU0GbS2NUO1W1QAvqMm/TsFhVem');
+INSERT INTO usuario(nome, username, senha) VALUES ('Test', 'test','$2a$10$.PVIfB07x.SfMYTcToxL0.yxcLWU0GbS2NUO1W1QAvqMm/TsFhVem');
