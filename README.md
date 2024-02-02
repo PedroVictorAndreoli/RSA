@@ -4,21 +4,11 @@
 1)
 A chave pública e privada é gerada através do algoritmo RSA no client
 
-
-
-3)
+2)
 A chave pública é enviada do client para o servidor e a chave assimétrica é gerada no servidor através do algoritmo BlowFish
 
+3)A chave assimétrica é criptografada pela chave pública
 
+4)A chave assimétrica é descriptografada utilizando a chave privada
 
-5)
-A chave assimétrica é criptografada pela chave pública
-
-
-7)
-A chave assimétrica é descriptografada utilizando a chave privada
-
-
-
-9)
-A chave assmétrica criptografa o usuario e senha e envia para o servidor
+5)A chave assmétrica criptografa o usuario e senha e envia para o servidor
